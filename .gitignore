@@ -176,3 +176,5 @@ cython_debug/
 # files
 archive.zip
 brain_tumor_dataset.csv
+.DS_Store
+/.DS_Store
