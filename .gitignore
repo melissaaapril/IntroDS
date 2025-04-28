@@ -178,3 +178,5 @@ archive.zip
 brain_tumor_dataset.csv
 .DS_Store
 /.DS_Store
+
+src/TestDelete.ipynb
